@@ -1,0 +1,2 @@
+Hello I am Devraj using writeFileSync
+Now using appendFileSync
