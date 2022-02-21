@@ -1,0 +1,15 @@
+{
+  "name": "npm_module",
+  "version": "1.0.0",
+  "description": "This is an npm module for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devraj Jhala",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
